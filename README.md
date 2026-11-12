@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Rathod Veerendra 👋
 
-<!--
-**veeren565-tech/veeren565-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science & Engineering undergraduate (VTU) based in Bengaluru, focused on building practical software systems, AI utilities, and hardware-integrated prototypes.
 
-Here are some ideas to get you started:
+#### 🚀 Featured Projects
+- **SafeLink** — Localized emergency safety network connecting a hardware trigger to a mobile app over a 100–200m mesh network for offline crowdsourced alerts.
+- **AccessLens** — AI-powered web accessibility auditor and remediation assistant that detects UI compliance issues and generates code fixes.
+- **J.A.R.V.E.S.** — Modular local Python autonomous voice assistant with WASAPI audio capture, ring buffers, and secure tool execution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack
+- **Languages:** Python, Java, C, JavaScript, SQL
+- **Frameworks & Backend:** FastAPI, React, Vite, HTML/CSS
+- **Core CS & Tools:** Data Structures & Algorithms, OOP, Operating Systems, Computer Networks, DBMS, Git, VS Code
+
+#### 📫 Connect With Me
+- **LinkedIn:** [linkedin.com/in/rathod-veerendra](https://www.linkedin.com/in/rathod-veerendra)
